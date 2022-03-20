@@ -4,4 +4,6 @@
 
 </br>
 </br>
-<img src="./img/tdd.png" align="center"/>
+<p align="center">
+  <img src="./img/tdd.png"/>
+</p>
